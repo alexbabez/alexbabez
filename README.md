@@ -10,17 +10,7 @@
   <strong>Donate Litecoin:</strong> <code>ltc1qt78u5khj30ml42y0x9wqenkv72a5hchhlvlmwc</code>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1188712861510422549)](https://discord.com/users/1027026707288436767)
-## Visitors:
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=termwave&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/termwave?color=FF0000&style=for-the-badge&logo=github&label=Follow" alt="Profile Views">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/termwave?color=FF0000&style=for-the-badge&logo=github&label=Star" alt="Profile Views">
-</p>
+
 
 
 ## 🌐 Socials:
